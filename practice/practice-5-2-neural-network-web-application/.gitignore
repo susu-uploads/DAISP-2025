@@ -1,2 +1,4 @@
 
 !backend/weights.pkl
+/.cache/
+/.report/

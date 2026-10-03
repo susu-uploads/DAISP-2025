@@ -4,3 +4,5 @@
 !array_archive.npz
 
 !some_array.npy
+/.cache/
+/.report/
