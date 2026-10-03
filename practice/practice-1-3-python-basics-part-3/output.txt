@@ -1,0 +1,37 @@
+Current list: [77, 94, 98, 60, 48, 9, 17, 20, 25, 89, 75, 58, 97, 39, 15, 8, 51, 94, 97, 10, 96, 42, 100, 33, 57, 8, 4, 35, 20, 95, 83, 15, 13, 98, 89, 92, 18, 91, 57, 82, 79, 56, 77, 12, 100, 64, 55, 25, 24, 94, 35, 25, 29, 44, 36, 12, 58, 45, 74, 28, 14, 74, 58, 79, 42, 93, 23, 61, 76, 91, 81, 56, 49, 26, 29, 27, 56, 70, 19, 21, 24, 50, 98, 89, 33, 98, 64, 32, 75, 51, 75, 51, 21, 58, 65, 14, 57, 75, 51, 44]
+Sum of elements: 5351
+Product of elements: 59572757670883417657841850657236862853448840232852436910842340111986741310006726155264861492058206420291475402054759104205002113024000000000000000000000000000000000
+Max element: 100
+
+Element 77 repeats 2 times
+Element 94 repeats 3 times
+Element 98 repeats 4 times
+Element 20 repeats 2 times
+Element 25 repeats 3 times
+Element 89 repeats 3 times
+Element 75 repeats 4 times
+Element 58 repeats 4 times
+Element 97 repeats 2 times
+Element 15 repeats 2 times
+Element 8 repeats 2 times
+Element 51 repeats 4 times
+Element 42 repeats 2 times
+Element 100 repeats 2 times
+Element 33 repeats 2 times
+Element 57 repeats 3 times
+Element 35 repeats 2 times
+Element 91 repeats 2 times
+Element 79 repeats 2 times
+Element 56 repeats 3 times
+Element 12 repeats 2 times
+Element 64 repeats 2 times
+Element 24 repeats 2 times
+Element 29 repeats 2 times
+Element 44 repeats 2 times
+Element 74 repeats 2 times
+Element 14 repeats 2 times
+Element 21 repeats 2 times
+
+List before: [77, 94, 98, 60, 48, 9, 17, 20, 25, 89, 75, 58, 97, 39, 15, 8, 51, 94, 97, 10, 96, 42, 100, 33, 57, 8, 4, 35, 20, 95, 83, 15, 13, 98, 89, 92, 18, 91, 57, 82, 79, 56, 77, 12, 100, 64, 55, 25, 24, 94, 35, 25, 29, 44, 36, 12, 58, 45, 74, 28, 14, 74, 58, 79, 42, 93, 23, 61, 76, 91, 81, 56, 49, 26, 29, 27, 56, 70, 19, 21, 24, 50, 98, 89, 33, 98, 64, 32, 75, 51, 75, 51, 21, 58, 65, 14, 57, 75, 51, 44]
+Max element index: 22, min element index: 26
+New list: [77, 94, 98, 60, 48, 9, 17, 20, 25, 89, 75, 58, 97, 39, 15, 8, 51, 94, 97, 10, 96, 42, 4, 33, 57, 8, 100, 35, 20, 95, 83, 15, 13, 98, 89, 92, 18, 91, 57, 82, 79, 56, 77, 12, 100, 64, 55, 25, 24, 94, 35, 25, 29, 44, 36, 12, 58, 45, 74, 28, 14, 74, 58, 79, 42, 93, 23, 61, 76, 91, 81, 56, 49, 26, 29, 27, 56, 70, 19, 21, 24, 50, 98, 89, 33, 98, 64, 32, 75, 51, 75, 51, 21, 58, 65, 14, 57, 75, 51, 44]

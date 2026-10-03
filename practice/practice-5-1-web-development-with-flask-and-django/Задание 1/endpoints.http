@@ -1,0 +1,28 @@
+### Create ad
+POST http://localhost:5000/api/v1/ads
+Content-Type: application/json
+
+{
+  "title": "New phone",
+  "description": "Selling iPhone 13",
+  "owner": "Alice"
+}
+
+### Get ad by id
+GET http://localhost:5000/api/v1/ads/0
+
+### List all ads
+GET http://localhost:5000/api/v1/ads
+
+### Update ad
+PUT http://localhost:5000/api/v1/ads/0
+Content-Type: application/json
+
+{
+  "title": "Updated phone title",
+  "description": "Now cheaper",
+  "owner": "Bob"
+}
+
+### Delete ad
+DELETE http://localhost:5000/api/v1/ads/0
