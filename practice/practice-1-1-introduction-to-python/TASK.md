@@ -1,8 +1,8 @@
 ---
 ru: "Практика 1_1"
-en: "Introduction to Python"
+en: "Practice 1_1"
 code: "practice-1-1-introduction-to-python"
-origin: "https://github.com/AlexCawl/SUSU.PE/blob/79f0b60cb60d201f5b5126b545e9528693dc3662/%D0%A1%D0%9F-%D0%9C-%D0%9E-%D0%A0%D0%A1%D0%98%D0%98%D0%BD%D0%AFP-2025/1.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20Python/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%201_1/INTRODUCTION.md"
+origin: "https://edu.susu.ru/mod/assign/view.php?id=8134712"
 ---
 
 <!--
@@ -25,12 +25,12 @@ origin: "https://github.com/AlexCawl/SUSU.PE/blob/79f0b60cb60d201f5b5126b545e952
 Если источник недоступен, сохраните существующую выгрузку и сообщите об ограничении; не придумывайте недостающие сведения.
 -->
 
-<!-- Каноническая ссылка Moodle в локальных материалах не обнаружена. origin указывает подтвержденный исходный материал. Отсутствие текста описания здесь не подтверждает пустую карточку Moodle. -->
-
 Срок выполнения - 8 сентября
 
-1.      Скачайте файл с материалом.
+1\.      Скачайте файл с материалом.
 
-2.      Прочитайте материал и выполните предложенные задания
+2\.      Прочитайте материал и выполните предложенные задания
 
-3.      Сохраните, созданный в ходе выполнения заданий файл, под названием task1_1_< Student surname>.ipynb
+3\.      Сохраните, созданный в ходе выполнения заданий файл, под названием task1\_1\_&lt; Student surname&gt;.ipynb
+
+- [task1\_1\_Introduction.pdf](https://edu.susu.ru/pluginfile.php/11584725/mod_assign/introattachment/0/task1_1_Introduction.pdf?forcedownload=1)

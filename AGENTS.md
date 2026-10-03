@@ -2,7 +2,7 @@
 
 ## Repository Structure
 
-This template provides the structure for one course for one academic year. Read `COURSE.md` and the relevant `TASK.md` before changing course materials. Keep these instructions about repository operations; place course content in the exported cards.
+This repository stores one course for one academic year. Read `COURSE.md` and the relevant `TASK.md` before changing course materials. Keep these instructions about repository operations; place course content in the exported cards.
 
 | File or directory                             | Purpose                                                                                                          |
 |-----------------------------------------------|------------------------------------------------------------------------------------------------------------------|
@@ -25,6 +25,9 @@ This template provides the structure for one course for one academic year. Read 
 | `.gitkeep`                                    | Placeholder that keeps an empty example lecture directory in Git; remove it once materials are added.            |
 
 Naming and placement rules:
+
+- Keep `README.md` limited to a level-one heading with the exact original Moodle course title and a level-two heading with its English translation. Include no other content.
+- Use `TASK.md` as the sole exported assignment card; do not duplicate its LMS description in `INTRODUCTION.md`.
 
 - Name each course repository and directory `<EnglishAcronym>-<YYYY>`, using only English letters, digits, and hyphens. Derive the acronym from the English course title and omit programme and enrolment prefixes. Keep the approved course code unchanged. The scaffold repository itself is named `susu-course-template`.
 - Name lecture and practice directories `lecture-<number>-<english-title>` and `practice-<number>-<english-title>`. Use lowercase English words separated by hyphens; retain the source numbering.

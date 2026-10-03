@@ -1,8 +1,8 @@
 ---
 ru: "Практика 1_2"
-en: "Python Basics: Part 2"
+en: "Practice 1_2"
 code: "practice-1-2-python-basics-part-2"
-origin: "https://github.com/AlexCawl/SUSU.PE/blob/79f0b60cb60d201f5b5126b545e9528693dc3662/%D0%A1%D0%9F-%D0%9C-%D0%9E-%D0%A0%D0%A1%D0%98%D0%98%D0%BD%D0%AFP-2025/1.%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20Python/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0%201_2/INTRODUCTION.md"
+origin: "https://edu.susu.ru/mod/assign/view.php?id=8134713"
 ---
 
 <!--
@@ -25,14 +25,14 @@ origin: "https://github.com/AlexCawl/SUSU.PE/blob/79f0b60cb60d201f5b5126b545e952
 Если источник недоступен, сохраните существующую выгрузку и сообщите об ограничении; не придумывайте недостающие сведения.
 -->
 
-<!-- Каноническая ссылка Moodle в локальных материалах не обнаружена. origin указывает подтвержденный исходный материал. Отсутствие текста описания здесь не подтверждает пустую карточку Moodle. -->
-
 Срок выполнения - 15 сентября
 
-1.      Скачайте файл для jupiter notebook
+1\.      Скачайте файл для jupiter notebook
 
-2.      Выполните последовательно каждую ячейку
+2\.      Выполните последовательно каждую ячейку
 
-3.      Выполните предложенные в файле задания
+3\.      Выполните предложенные в файле задания
 
-4.      Сохраните изменения в файле под названием task1_2_< Student surname>.ipynb
+4\.      Сохраните изменения в файле под названием task1\_2\_&lt; Student surname&gt;.ipynb
+
+- [task1\_2\_Introduction.ipynb](https://edu.susu.ru/pluginfile.php/11584726/mod_assign/introattachment/0/task1_2_Introduction.ipynb?forcedownload=1)
